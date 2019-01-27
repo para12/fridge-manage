@@ -4,6 +4,8 @@ import ShowItem from './Show';
 import './reset.css';
 import './App.css';
 
+
+
 class App extends Component {
 
   _get_localStorage = () => {
@@ -74,3 +76,5 @@ class App extends Component {
 }
 
 export default App;
+
+
